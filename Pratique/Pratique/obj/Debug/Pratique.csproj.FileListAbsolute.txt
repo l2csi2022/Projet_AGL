@@ -8,3 +8,6 @@ C:\Users\Christelle\Desktop\TpChristelle\projet_AGL\Pratique\Pratique\obj\Debug\
 C:\Users\Christelle\Desktop\TpChristelle\projet_AGL\Pratique\Pratique\obj\Debug\Pratique.csproj.GenerateResource.Cache
 C:\Users\Christelle\Desktop\TpChristelle\projet_AGL\Pratique\Pratique\obj\Debug\Pratique.exe
 C:\Users\Christelle\Desktop\TpChristelle\projet_AGL\Pratique\Pratique\obj\Debug\Pratique.pdb
+C:\Users\AIME M\Desktop\TPGITAIME\projet_AGL\Pratique\Pratique\bin\Debug\Pratique.exe.config
+C:\Users\AIME M\Desktop\TPGITAIME\projet_AGL\Pratique\Pratique\obj\Debug\Pratique.exe
+C:\Users\AIME M\Desktop\TPGITAIME\projet_AGL\Pratique\Pratique\obj\Debug\Pratique.pdb
