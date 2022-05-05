@@ -14,3 +14,5 @@ C:\Users\AIME M\Desktop\TPGITAIME\projet_AGL\Pratique\Pratique\obj\Debug\Pratiqu
 C:\Users\AIME M\Desktop\TPISAAC\projet_AGL\Pratique\Pratique\bin\Debug\Pratique.exe.config
 C:\Users\AIME M\Desktop\TPISAAC\projet_AGL\Pratique\Pratique\obj\Debug\Pratique.exe
 C:\Users\AIME M\Desktop\TPISAAC\projet_AGL\Pratique\Pratique\obj\Debug\Pratique.pdb
+C:\Users\Henockl\Desktop\gGitHub\projet_AGL\Pratique\Pratique\obj\Debug\Pratique.exe
+C:\Users\Henockl\Desktop\gGitHub\projet_AGL\Pratique\Pratique\obj\Debug\Pratique.pdb
