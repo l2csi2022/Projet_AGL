@@ -57,6 +57,7 @@
     </Compile>
     <Compile Include="Fournisseur.cs" />
     <Compile Include="malade.cs" />
+    <Compile Include="medicament.cs" />
     <Compile Include="operation.cs" />
     <Compile Include="paiement.cs" />
     <Compile Include="prime.cs" />
