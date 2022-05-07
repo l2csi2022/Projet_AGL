@@ -55,6 +55,7 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Fournisseur.cs" />
+    <Compile Include="malade.cs" />
     <Compile Include="operation.cs" />
     <Compile Include="paiement.cs" />
     <Compile Include="Program.cs" />
