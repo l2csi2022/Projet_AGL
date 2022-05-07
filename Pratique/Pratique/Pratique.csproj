@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="Agent.cs" />
     <Compile Include="Article.cs" />
+    <Compile Include="cellule.cs" />
     <Compile Include="Client.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
