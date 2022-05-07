@@ -59,6 +59,7 @@
     <Compile Include="malade.cs" />
     <Compile Include="operation.cs" />
     <Compile Include="paiement.cs" />
+    <Compile Include="prime.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
