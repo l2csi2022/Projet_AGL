@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="adherant.cs" />
+    <Compile Include="administrateur.cs" />
     <Compile Include="Agent.cs" />
     <Compile Include="Article.cs" />
     <Compile Include="cellule.cs" />

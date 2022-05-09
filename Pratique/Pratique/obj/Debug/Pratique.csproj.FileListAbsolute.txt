@@ -34,3 +34,6 @@ C:\Users\AIME M\Desktop\TPEUNICE\projet_AGL\Pratique\Pratique\obj\Debug\Pratique
 C:\Users\AIME M\Desktop\TPKANYAGE\projet_AGL\Pratique\Pratique\bin\Debug\Pratique.exe.config
 C:\Users\AIME M\Desktop\TPKANYAGE\projet_AGL\Pratique\Pratique\obj\Debug\Pratique.exe
 C:\Users\AIME M\Desktop\TPKANYAGE\projet_AGL\Pratique\Pratique\obj\Debug\Pratique.pdb
+C:\Users\Christelle\Desktop\Projet_AGL\Pratique\Pratique\bin\Debug\Pratique.exe.config
+C:\Users\Christelle\Desktop\Projet_AGL\Pratique\Pratique\obj\Debug\Pratique.exe
+C:\Users\Christelle\Desktop\Projet_AGL\Pratique\Pratique\obj\Debug\Pratique.pdb
