@@ -40,3 +40,6 @@ C:\Users\Christelle\Desktop\Projet_AGL\Pratique\Pratique\obj\Debug\Pratique.pdb
 C:\Users\Glody Muley\Desktop\PRATIQUE_AGL\projet_AGL\Pratique\Pratique\bin\Debug\Pratique.exe.config
 C:\Users\Glody Muley\Desktop\PRATIQUE_AGL\projet_AGL\Pratique\Pratique\obj\Debug\Pratique.exe
 C:\Users\Glody Muley\Desktop\PRATIQUE_AGL\projet_AGL\Pratique\Pratique\obj\Debug\Pratique.pdb
+C:\Users\Lilyane\Desktop\Nouveau dossier\projet_AGL\Pratique\Pratique\bin\Debug\Pratique.exe.config
+C:\Users\Lilyane\Desktop\Nouveau dossier\projet_AGL\Pratique\Pratique\obj\Debug\Pratique.exe
+C:\Users\Lilyane\Desktop\Nouveau dossier\projet_AGL\Pratique\Pratique\obj\Debug\Pratique.pdb
